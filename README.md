@@ -1,5 +1,7 @@
 # GraphQL endpoint for Junior Developer position in Scandiweb
 
+>Forked for archive purposes.
+
 ### Overview
 
 You are going to need this endpoint in order to implement the assignment given to you (minimalistic storefront).
